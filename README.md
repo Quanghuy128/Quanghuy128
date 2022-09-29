@@ -26,8 +26,6 @@
 <a href="#" title="Quanghuy">
   <img src="https://github-readme-stats.vercel.app/api?username=quanghuy128&show_icons=true&locale=en" />
 </a>
-<a href="#" title="Quanghuy">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=quanghuy128&show_icons=true&locale=en&layout=compact" />
-</a>
+
   <!--<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=quanghuy128&" alt="quanghuy128" /></p>-->
 
