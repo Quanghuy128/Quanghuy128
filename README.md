@@ -25,5 +25,5 @@
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=quanghuy128&show_icons=true&locale=en" />
   <br/>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=quanghuy128&" alt="quanghuy128" />
+  <!--<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=quanghuy128&" alt="quanghuy128" />-->
 
