@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quang Huy Nguyen</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Thuong+Ngo+%3C3;Welcome+to+my+profile!](https://readme-typing-svg.herokuapp.com?font=Poppins&size=50&pause=1000&color=F2F71D&background=C351FF00&width=435&lines=Welcome+to+my+profile!!;Hi+👋+!!!+I'm+Quang+Huy+Nguyen" alt="Title"></img>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=30&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Thuong+Ngo+%3C3;Welcome+to+my+profile!](https://readme-typing-svg.herokuapp.com?font=Poppins&size=50&pause=1000&color=F2F71D&background=C351FF00&width=435&lines=Welcome+to+my+profile!!;Hi+👋+!!!+I'm+Quang+Huy+Nguyen" alt="Title"></img>
 </div>
 
 
