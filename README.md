@@ -26,4 +26,5 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=quanghuy128&show_icons=true&locale=en&theme=github_dark" />
   <br/>
   <!--<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=quanghuy128&" alt="quanghuy128" />-->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quanghuy128&theme=github_dark" />
 
