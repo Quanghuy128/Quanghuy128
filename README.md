@@ -11,7 +11,7 @@
 <img align="right" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);"      src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="500">
 
 <p><img align="left" src="https://komarev.com/ghpvc/?username=quanghuy128&label=Profile%20views&color=0e75b6&style=flat" alt="quanghuy128" /></p>
-
+<br/>
 - 🌱 I’m currently learning **C#/.NET & Java**
 
 - 💬 Ask me about **C#/.NET & Java**
