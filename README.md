@@ -3,7 +3,7 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&pause=700&color=A369F7FF&width=800&lines=😍Welcome+to+my+profile!!;Hi👋!!!+I'm+Quang+Huy+Nguyen;I'm+pleased+you+to+spend+time+viewing+my+profile💕!!!" alt="Title"></img>
 
 
-<img align="right" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="[https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)" width="400">
+<img align="right" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quanghuy128&label=Profile%20views&color=0e75b6&style=flat" alt="quanghuy128" /> </p>
 
