@@ -25,7 +25,11 @@
 
   <!--<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=quanghuy128&" alt="quanghuy128" />-->
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quanghuy128&theme=github_dark" />
-  <div > 
+  <div align="center"> 
+  <div style="display: flex;">
+    <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quanghuy128&theme=github_dark" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=quanghuy128&show_icons=true&locale=en&theme=github_dark" />
+  </div>
     <img width="50%" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quanghuy128&theme=github_dark" />
     <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=quanghuy128&show_icons=true&locale=en&theme=github_dark" />
     <img width="50%" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quanghuy128&theme=github_dark" />
