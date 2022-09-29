@@ -12,6 +12,7 @@
 <img align="right" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" border="1px solid red"      src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="400">
 <p><img align="left" src="https://komarev.com/ghpvc/?username=quanghuy128&label=Profile%20views&color=0e75b6&style=flat" alt="quanghuy128" /></p>
 
+
 - 🌱 I’m currently learning **C#/.NET & Java**
 
 - 💬 Ask me about **C#/.NET & Java**
@@ -19,7 +20,6 @@
 - 📫 How to reach me **quanghuyhihi128@gmail.com**
 
  
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/huynq12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/huynq12" height="30" width="40" /></a>
