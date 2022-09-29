@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quang Huy Nguyen</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=50&pause=1000&color=F2F71D&background=C351FF00&width=435&lines=Welcome+to+my+profile!!;Hi+👋+!!!+I'm+Quang+Huy+Nguyen)](https://git.io/typing-svg)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Thuong+Ngo+%3C3;Welcome+to+my+profile!](https://readme-typing-svg.herokuapp.com?font=Poppins&size=50&pause=1000&color=F2F71D&background=C351FF00&width=435&lines=Welcome+to+my+profile!!;Hi+👋+!!!+I'm+Quang+Huy+Nguyen" alt="Title"></img>
+</div>
 
 
 <img align="right" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400">
