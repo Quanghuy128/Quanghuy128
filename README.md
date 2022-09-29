@@ -2,6 +2,7 @@
   https://github-profile-summary-cards.vercel.app/demo.html
   https://rahuldkjain.github.io/gh-profile-readme-generator
   http://readme-typing-svg.herokuapp.com/demo
+  https://github-readme-streak-stats.herokuapp.com/demo
 -->
 <h1 align="center">Hi 👋, I'm Quang Huy Nguyen</h1>
 
@@ -36,7 +37,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=quanghuy128&show_icons=true&locale=en&theme=github_dark" />
   </div style="display: flex;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quanghuy128&theme=github_dark" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=quanghuy128&theme=github_dark" alt="quanghuy128" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=quanghuy128&theme=github-dark" alt="quanghuy128" />
   </div>
   
   
