@@ -25,7 +25,7 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=quanghuy128&show_icons=true&locale=en" alt="quanghuy128" /></p>
 <div align=center>
   <a href="#" title="Quanghuy">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=quanghuy128&show_icons=true&locale=en" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=quanghuy128&show_icons=true&locale=en" />
   </a>
   <a href="#" title="Quanghuy">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs?username=quanghuy128&show_icons=true&locale=en&layout=compact" />
