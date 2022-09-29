@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quanghuy128&label=Profile%20views&color=0e75b6&style=flat" alt="quanghuy128" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quanghuy128" alt="quanghuy128" /></a> </p>
-
 - 🌱 I’m currently learning **C#/.NET & Java**
 
 - 📫 How to reach me **quanghuyhihi128@gmail.com**
