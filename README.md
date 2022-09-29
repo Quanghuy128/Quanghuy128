@@ -11,7 +11,7 @@
 
 
 <div style="display:flex"> 
-  <div width="45%">
+  <div width="400px">
       <img src="https://komarev.com/ghpvc/?username=quanghuy128&label=Profile%20views&color=0e75b6&style=flat" alt="quanghuy128" />
       
         - 🌱 I’m currently learning **C#/.NET & Java**
