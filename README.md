@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **C#/.NET & Java**
 
-- 💬 Ask me about **C#/.NET & Java**
+- 💬 Ask me about **C#.NET & Java**
 
 - 📫 How to reach me **quanghuyhihi128@gmail.com**
 
