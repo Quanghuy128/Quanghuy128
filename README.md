@@ -14,7 +14,7 @@
 <p><img align="left" src="https://komarev.com/ghpvc/?username=quanghuy128&label=Profile%20views&color=0e75b6&style=flat" alt="quanghuy128" /></p>
 <br/>
 
-- 🌱 I’m currently learning **C#/.NET & Java**
+- 🌱 I’m currently learning **C#.NET & Java**
 
 - 💬 Ask me about **C#.NET & Java**
 
