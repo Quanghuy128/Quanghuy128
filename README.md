@@ -39,7 +39,7 @@
 <div align="center"> 
 <div style="display: flex;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quanghuy128&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=quanghuy128&show_icons=true&locale=en&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quanghuy128&show_icons=true&locale=en" alt="quanghuy128" /></p>
 </div style="display: flex;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quanghuy128&theme=github_dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=quanghuy128&theme=tokyonight" alt="quanghuy128" />
