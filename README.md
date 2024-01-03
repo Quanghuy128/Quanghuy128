@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **C#.NET & Java**
 
-- 📫 How to reach me **quanghuyhihi128@gmail.com**
+- 📫 How to reach me **quanghuyhihi128@gmail.com** or **huynquose.12@gmail.com** for work
 
 
 <!--Connect me Section-->
